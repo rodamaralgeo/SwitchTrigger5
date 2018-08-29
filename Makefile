@@ -2,7 +2,7 @@
 NAME = mod-switchtrigger5
 
 # installation path
-INSTALL_PATH = $ZYNTHIAN_DIR/zynthian-plugins/lv2/
+INSTALL_PATH = /zynthian/zynthian-plugins/lv2
 COMPLETE_INSTALL_PATH = $(DESTDIR)$(INSTALL_PATH)/$(NAME).lv2
 
 # compiler and linker
